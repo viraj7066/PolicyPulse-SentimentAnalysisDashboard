@@ -170,4 +170,4 @@ Visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ---
 
-© 2025 Tejas Bagul, Viraj Gujar, Rutuja Vaidya| BERT + TweetEval + Flask = 📈 Insightful Policy Sentiment Analysis
+© 2025 Viraj Gujar,Tejas Bagul, Rutuja Vaidya| BERT + TweetEval + Flask = 📈 Insightful Policy Sentiment Analysis
